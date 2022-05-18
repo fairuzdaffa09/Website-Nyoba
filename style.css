@@ -1,0 +1,10 @@
+a:hover{background-color: cyan;}
+h1 {
+    color:rgb(173, 3, 3);
+    background-color: rgb(119, 119, 4);
+    border: 2px solid black;
+    font-family: monospace;
+    }
+p{
+    color: maroon;
+    }
